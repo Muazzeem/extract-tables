@@ -1,0 +1,2 @@
+google-api-core==2.18.0
+google-cloud-documentai==2.27.0
